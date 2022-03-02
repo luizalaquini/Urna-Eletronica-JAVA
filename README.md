@@ -23,6 +23,6 @@ Relatórios para o município de Vitória-ES:
 ![relatorios2](https://user-images.githubusercontent.com/72242547/156408875-ba262a5d-18a5-4373-a948-f696f7872945.png)
 ![relatorios3](https://user-images.githubusercontent.com/72242547/156408905-f0af095c-5b83-4779-9e9e-4d8d837cae9f.png)
 
-# Autor
+# Autores
 - Luiza Batista Laquini
 - Maria Luiza Armini Correa
