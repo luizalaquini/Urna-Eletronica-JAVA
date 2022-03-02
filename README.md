@@ -18,6 +18,10 @@ Os dados das eleições para vereador em um município serão disponibilizados e
 - Java
 
 # Layout
+Relatórios para o município de Vitória-ES:
+![relatorios1](https://user-images.githubusercontent.com/72242547/156408855-a386fc08-cca6-4435-9f04-736b7ed07a95.png)
+![relatorios2](https://user-images.githubusercontent.com/72242547/156408875-ba262a5d-18a5-4373-a948-f696f7872945.png)
+![relatorios3](https://user-images.githubusercontent.com/72242547/156408905-f0af095c-5b83-4779-9e9e-4d8d837cae9f.png)
 
 # Autor
 - Luiza Batista Laquini
